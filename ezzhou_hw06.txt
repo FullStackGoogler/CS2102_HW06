@@ -1,0 +1,49 @@
+ezzhou - hw6/hw6_main
+
+Total Points Earned
+Theme: CandidateExistsException, Earned Points: 5, Total Available Points: 5
+Theme: DuplicateVotesException, Earned Points: 5, Total Available Points: 5
+Theme: findWinnerMostFirstVotes, Earned Points: 10, Total Available Points: 10
+Theme: findWinnerMostPoints, Earned Points: 10, Total Available Points: 10
+Theme: UnknownCandidateException, Earned Points: 5, Total Available Points: 5
+
+Our tests on your code:
+Name: CandidateExistsException; Result: PASSED
+Theme: CandidateExistsException; Worth: 5; Earned: 5
+Description:
+ Tests CandidateExistsException
+
+Name: DuplicateVotesException; Result: PASSED
+Theme: DuplicateVotesException; Worth: 5; Earned: 5
+Description:
+ Tests DuplicateVotesException
+
+Name: findWinnerMostFirstVotes #3; Result: PASSED
+Theme: findWinnerMostFirstVotes; Worth: 3; Earned: 3
+Description:
+ Tests that findWinnerMostFirstVotes returns the correct string in case of a tie where there are only two candidates, both with exactly half the votes.
+
+Name: findWinnerMostFirstVotes #2; Result: PASSED
+Theme: findWinnerMostFirstVotes; Worth: 3; Earned: 3
+Description:
+ Tests that findWinnerMostFirstVotes returns the correct string in case of a tie.
+
+Name: findWinnerMostFirstVotes #1; Result: PASSED
+Theme: findWinnerMostFirstVotes; Worth: 4; Earned: 4
+Description:
+ Tests that findWinnerMostFirstVotes returns the expected winner.
+
+Name: findWinnerMostFirstVotes #2; Result: PASSED
+Theme: findWinnerMostPoints; Worth: 5; Earned: 5
+Description:
+ Tests that findWinnerMostPoints returns the correct string in case of a tie.
+
+Name: findWinnerMostFirstVotes #1; Result: PASSED
+Theme: findWinnerMostPoints; Worth: 5; Earned: 5
+Description:
+ Tests that findWinnerMostPoints returns the expected winner.
+
+Name: UnknownCandidateException; Result: PASSED
+Theme: UnknownCandidateException; Worth: 5; Earned: 5
+Description:
+ Tests UnknownCandidateException
